@@ -2,7 +2,7 @@ Tese do Doutorado Profissional CESAR School
 =================
 <p align="center"><img src="images/marca_cesar_school.png"  width="350" height="276" align="middle"/></p>
 
-Este modelo visa atender as exigências dos Programas de Pós-Graduação do Instituto de Ciências Matemáticas e de Computação. As normas principais estão baseadas na ABNT, com algumas adaptações em relação aos estilos dos capítulos, capa e folhas de rostos.
+Este documento criado a partir de um Modelo de [Tese da USP](https://www.overleaf.com/latex/templates/modelo-de-teses-e-dissertacoes-icmc-slash-usp/cvqdvbnxjqts), visa atender as exigências dos Programas de Pós-Graduação da CESAR School, Doutorado Profissional em Engenharia de Software. As normas principais estão baseadas na ABNT, com algumas adaptações em relação aos estilos dos capítulos, capa e folhas de rostos.
 
 O requisito básico para utilização da classe **_icmc_** é criar um documento desta classe com o comando
 `\documentclass[@parameters]{icmc}` e ter, no diretório de trabalho, o arquivo *icmc.cls* presente. Entretanto, recomenda-se fortemente manter a estrutura de diretório inicial fornecida por este modelo. 
