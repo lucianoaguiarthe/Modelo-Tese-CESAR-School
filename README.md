@@ -1,5 +1,6 @@
 Tese do Doutorado Profissional CESAR School 
 =================
+<p align="center"><img src="images/marca_cesar_school.png"  width="350" height="276" align="middle"/></p>
 
 Este modelo visa atender as exigências dos Programas de Pós-Graduação do Instituto de Ciências Matemáticas e de Computação. As normas principais estão baseadas na ABNT, com algumas adaptações em relação aos estilos dos capítulos, capa e folhas de rostos.
 
